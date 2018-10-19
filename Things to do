@@ -1,0 +1,2 @@
+Create a service that takes id and returns the location.
+query using the location id and distance instead of latLng
